@@ -12,8 +12,9 @@ Informações sobre o dataset:
 - As informações são anonimizadas por questões de privacidade
 - Base de dados no link:
 - https://dhauz-challenges.s3.amazonaws.com/cancellation_prediction.rar
-- 
+
 Comece respondendo as seguintes questões:
+
 a) Elabore hipóteses e visualizações envolvendo a variável cancellation e, pelo menos, outras
 duas variáveis presentes no dataset;
 

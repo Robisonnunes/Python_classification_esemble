@@ -1,4 +1,4 @@
-# teste_dhauz_DS
+# TESTE TÉCNICO PARA DATA SCIENTIST - DHAUZ
 Repositório criado para entrega de relatório de teste técnico para Data Scientist
 Problema de Negócio
 

@@ -1,10 +1,7 @@
-# TESTE TÉCNICO PARA DATA SCIENTIST - DHAUZ
-Repositório criado para entrega de relatório de teste técnico para Data Scientist
-
-Problema de Negócio
+# Problema de Negócio
 
 1. Previsão de cancelamentos em Hotéis
-Você foi contratado pela DHAUZ como cientista de dados para analisar uma base de dados de clientes
+Você foi contratado como cientista de dados para analisar uma base de dados de clientes
 de uma rede de Hotéis e sua tarefa é investigar os dados em busca de insights que possam ajudar a
 empresa a evitar cancelamentos e também construir um modelo preditivo que possa antecipar esses
 cancelamentos, de modo que a empresa tenha tempo hábil para agir com ações de retenção.
